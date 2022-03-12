@@ -88,9 +88,6 @@ ActionChains(driver).move_to_element(driver.find_element(By.XPATH, "//li[text()=
 WebDriverWait(driver, 10).until(expected_conditions.invisibility_of_element_located
                                 ((By.XPATH, "//div[@class='blockUI blockOverlay']")))
 
-#drpdwn_state = Select(driver.find_element(By.ID, "billing_state"))
-#drpdwn_state.select_by_value("Maharashtra")
-
 driver.find_element(By.CSS_SELECTOR, "input#billing_postcode").send_keys("401401")
 driver.find_element(By.CSS_SELECTOR, "input#billing_email").send_keys("gibberish@gmail.com")
 
@@ -112,8 +109,6 @@ btn_placeorder.click()
 
 lbl_success_order = WebDriverWait(driver, 10).until(expected_conditions.visibility_of_element_located
                                 ((By.XPATH, "//p[text()='Thank you. Your order has been received.']")))
-
-#lbl_success_order = driver.find_element(By.XPATH, "//p[text()='Thank you. Your order has been received.']")
 
 assert 'Thank you. Your order has been received.', lbl_success_order.text
 
