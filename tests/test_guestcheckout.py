@@ -112,7 +112,7 @@ lbl_success_order = WebDriverWait(driver, 10).until(expected_conditions.visibili
 
 assert 'Thank you. Your order has been received.', lbl_success_order.text
 
-
+driver.close()
 
 
 
