@@ -882,3 +882,971 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1647177042839	geckodriver	INFO	Listening on 127.0.0.1:45651
+1647177043342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45703" "-no-remote" "-profile" "/tmp/rust_mozprofile5Hh1dL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647177044129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Hh1dL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45703/devtools/browser/378f1227-efeb-41e1-b5e3-5114c6198cf8
+1647177045906	Marionette	INFO	Listening on port 37075
+1647177045974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647177146330	Marionette	INFO	Stopped listening on port 37075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647178835443	geckodriver	INFO	Listening on 127.0.0.1:38157
+1647178835947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54143" "-no-remote" "-profile" "/tmp/rust_mozprofilePhg8oc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647178836816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePhg8oc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54143/devtools/browser/c7788bef-3921-4d98-8182-237d8776ebaa
+1647178838563	Marionette	INFO	Listening on port 33311
+1647178838718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647178859296	Marionette	INFO	Stopped listening on port 33311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647190771282	geckodriver	INFO	Listening on 127.0.0.1:44215
+1647190771787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "headless" "--remote-debugging-port" "55017" "-no-remote" "-profile" "/tmp/rust_mozprofile64MnFB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647190772745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile64MnFB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55017/devtools/browser/80ab42c2-de86-49d8-931c-98e0d51620f4
+1647190775177	Marionette	INFO	Listening on port 36001
+1647190775230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647190791302	Marionette	INFO	Stopped listening on port 36001
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647190859228	geckodriver	INFO	Listening on 127.0.0.1:38275
+1647190859731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "headless" "--remote-debugging-port" "35005" "-no-remote" "-profile" "/tmp/rust_mozprofileG3s9Xy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647190860611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG3s9Xy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35005/devtools/browser/b789441f-42ed-418d-852f-9fa649883bb0
+1647190862613	Marionette	INFO	Listening on port 33465
+1647190862657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647190877727	Marionette	INFO	Stopped listening on port 33465
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647191013549	geckodriver	INFO	Listening on 127.0.0.1:49569
+1647191014052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35091" "-no-remote" "-profile" "/tmp/rust_mozprofile8FnQNb"
+*** You are running in headless mode.
+1647191014446	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8FnQNb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35091/devtools/browser/9cdbdd38-28ea-485b-8179-78e1d7f1617a
+1647191015953	Marionette	INFO	Listening on port 41493
+1647191015990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647191029577	Marionette	INFO	Stopped listening on port 41493
+1647231738380	geckodriver	INFO	Listening on 127.0.0.1:37605
+1647231738885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51437" "-no-remote" "-profile" "/tmp/rust_mozprofilea3Fs30"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647231739697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea3Fs30/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51437/devtools/browser/59f0e831-1eb5-48c4-be46-96b20ffb1917
+1647231741540	Marionette	INFO	Listening on port 46051
+1647231741665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647231758095	Marionette	INFO	Stopped listening on port 46051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647231788432	geckodriver	INFO	Listening on 127.0.0.1:47801
+1647231788935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43101" "-no-remote" "-profile" "/tmp/rust_mozprofileNglOoZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647231789679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNglOoZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43101/devtools/browser/51a1b590-2565-4051-aed9-9b2481f7a39a
+1647231791459	Marionette	INFO	Listening on port 38519
+1647231791563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647231989664	Marionette	INFO	Stopped listening on port 38519
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647231994410	geckodriver	INFO	Listening on 127.0.0.1:46067
+1647231994913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45645" "-no-remote" "-profile" "/tmp/rust_mozprofile5XQK3Q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647231995642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5XQK3Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45645/devtools/browser/f8d8bd12-08ec-41cc-8b68-dfc853cbb707
+1647231997329	Marionette	INFO	Listening on port 39427
+1647231997434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647232053712	Marionette	INFO	Stopped listening on port 39427
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647232078751	geckodriver	INFO	Listening on 127.0.0.1:54853
+1647232079254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34051" "-no-remote" "-profile" "/tmp/rust_mozprofileBFU2o6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647232079993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBFU2o6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34051/devtools/browser/b4272fd8-24a1-4492-b72d-3fb5b675789f
+1647232081764	Marionette	INFO	Listening on port 38061
+1647232081883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+1647232107010	Marionette	INFO	Stopped listening on port 38061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647232194402	geckodriver	INFO	Listening on 127.0.0.1:42651
+1647232194905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47021" "-no-remote" "-profile" "/tmp/rust_mozprofilegAi9d9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647232195655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegAi9d9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47021/devtools/browser/30fb8adc-b1c9-40e2-abac-a602a1e44a41
+1647232197302	Marionette	INFO	Listening on port 35631
+1647232197345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647232425781	Marionette	INFO	Stopped listening on port 35631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647232430659	geckodriver	INFO	Listening on 127.0.0.1:44889
+1647232431164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58223" "-no-remote" "-profile" "/tmp/rust_mozprofileEIh3ju"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647232431884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEIh3ju/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58223/devtools/browser/24b4fb86-3084-4759-b992-7290c027fb3a
+1647232433568	Marionette	INFO	Listening on port 45641
+1647232433599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647232771433	geckodriver	INFO	Listening on 127.0.0.1:36359
+1647232771936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53927" "-no-remote" "-profile" "/tmp/rust_mozprofileX2Lp40"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647232772758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX2Lp40/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53927/devtools/browser/36b1f8ce-6f2a-4bcd-bfc2-a403cbecb5a8
+1647232774786	Marionette	INFO	Listening on port 46295
+1647232774870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647232916989	Marionette	INFO	Stopped listening on port 46295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647232921311	Marionette	INFO	Stopped listening on port 45641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647232926923	geckodriver	INFO	Listening on 127.0.0.1:34545
+1647232927426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46293" "-no-remote" "-profile" "/tmp/rust_mozprofileNOXaa8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647232928409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNOXaa8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46293/devtools/browser/6d4600c2-1453-434b-aa04-f9a54e7225be
+1647232930317	Marionette	INFO	Listening on port 42315
+1647232930352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647233016008	Marionette	INFO	Stopped listening on port 42315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647233018989	geckodriver	INFO	Listening on 127.0.0.1:47719
+1647233019492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49557" "-no-remote" "-profile" "/tmp/rust_mozprofileXbNiCj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647233020227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXbNiCj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49557/devtools/browser/e77321a3-8d38-4f32-87a5-640f1665aa53
+1647233021909	Marionette	INFO	Listening on port 36619
+1647233022020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647233234139	Marionette	INFO	Stopped listening on port 36619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647233237466	geckodriver	INFO	Listening on 127.0.0.1:37747
+1647233237972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57709" "-no-remote" "-profile" "/tmp/rust_mozprofileCYeeYB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647233238734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCYeeYB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57709/devtools/browser/1f7130ec-71cb-4de3-b074-c3a69f6601c3
+1647233240447	Marionette	INFO	Listening on port 32871
+1647233240499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647233252728	Marionette	INFO	Stopped listening on port 32871
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647233276404	geckodriver	INFO	Listening on 127.0.0.1:58831
+1647233276911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50817" "-no-remote" "-profile" "/tmp/rust_mozprofiler8Xyni"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647233277644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler8Xyni/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50817/devtools/browser/011c6170-a270-4ff3-959f-a6ab537f301e
+1647233279283	Marionette	INFO	Listening on port 45147
+1647233279333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647233300442	Marionette	INFO	Stopped listening on port 45147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647238646540	geckodriver	INFO	Listening on 127.0.0.1:59373
+1647238646976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52759" "-no-remote" "-profile" "/tmp/rust_mozprofilexJKTQ0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647238647903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexJKTQ0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52759/devtools/browser/49e5c4bc-8df4-4478-887d-7c489bd0e8e7
+1647238649685	Marionette	INFO	Listening on port 36655
+1647238649715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647238724264	Marionette	INFO	Stopped listening on port 36655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647238728274	geckodriver	INFO	Listening on 127.0.0.1:55125
+1647238728777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49997" "-no-remote" "-profile" "/tmp/rust_mozprofile3hwc2U"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647238729574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3hwc2U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49997/devtools/browser/93744ad3-85d8-4622-a2be-7ee2c1b3c871
+1647238731324	Marionette	INFO	Listening on port 35543
+1647238731401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1647239219300	geckodriver	INFO	Listening on 127.0.0.1:39267
+1647239219804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39287" "-no-remote" "-profile" "/tmp/rust_mozprofileXKEGtq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647239220683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXKEGtq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39287/devtools/browser/2ca8c7f3-9c44-445a-be68-b3bff48b0525
+1647239222545	Marionette	INFO	Listening on port 44997
+1647239222666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647239293596	geckodriver	INFO	Listening on 127.0.0.1:54151
+1647239293600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53109" "-no-remote" "-profile" "/tmp/rust_mozprofileDmEvTT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647239294353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDmEvTT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53109/devtools/browser/3443d5c5-8e99-49a3-ac94-75011897f63f
+1647239296898	Marionette	INFO	Listening on port 35921
+1647239296934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1647239599447	geckodriver	INFO	Listening on 127.0.0.1:51055
+1647239599452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56005" "-no-remote" "-profile" "/tmp/rust_mozprofileiz8onW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647239600477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiz8onW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56005/devtools/browser/9f4c804b-139f-42f9-8086-bcc836c82782
+1647239602129	Marionette	INFO	Listening on port 32971
+1647239602184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1647239605011	Marionette	INFO	Stopped listening on port 44997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647239606273	Marionette	INFO	Stopped listening on port 35543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647239631815	Marionette	INFO	Stopped listening on port 32971
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647239773602	geckodriver	INFO	Listening on 127.0.0.1:48473
+1647239774105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41893" "-no-remote" "-profile" "/tmp/rust_mozprofilekKAMPy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647239774822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekKAMPy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41893/devtools/browser/44b4d6c1-e704-4165-80f4-621a2b17b6fa
+1647239776463	Marionette	INFO	Listening on port 39403
+1647239776532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647239951954	geckodriver	INFO	Listening on 127.0.0.1:52889
+1647239952458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34437" "-no-remote" "-profile" "/tmp/rust_mozprofile6QkTjT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647239953207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6QkTjT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34437/devtools/browser/0fa57233-d4cb-4b6b-a3ef-0de1ce6f89ab
+1647239955062	Marionette	INFO	Listening on port 46363
+1647239955090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647239967875	Marionette	INFO	Stopped listening on port 46363
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1647240772432	Marionette	INFO	Stopped listening on port 39403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647240779946	geckodriver	INFO	Listening on 127.0.0.1:57393
+1647240780449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45259" "-no-remote" "-profile" "/tmp/rust_mozprofilePnJdO7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647240781176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePnJdO7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45259/devtools/browser/bd2f2e89-7045-41f1-a9e3-bd0946d53744
+1647240782902	Marionette	INFO	Listening on port 34879
+1647240782977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647240796474	Marionette	INFO	Stopped listening on port 34879
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647240884542	geckodriver	INFO	Listening on 127.0.0.1:45849
+1647240885046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43927" "-no-remote" "-profile" "/tmp/rust_mozprofilel0ffqd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647240885825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel0ffqd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43927/devtools/browser/e9358334-671e-48fd-9593-786c899ea4bb
+1647240887495	Marionette	INFO	Listening on port 34611
+1647240887575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647240900966	Marionette	INFO	Stopped listening on port 34611
+1647241287024	geckodriver	INFO	Listening on 127.0.0.1:43119
+1647241287528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51939" "-no-remote" "-profile" "/tmp/rust_mozprofileDsv4QF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647241288368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDsv4QF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51939/devtools/browser/af1a3b88-eac7-4464-8294-baba12e6cd6b
+1647241290098	Marionette	INFO	Listening on port 35941
+1647241290154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647241378086	Marionette	INFO	Stopped listening on port 35941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647241382127	geckodriver	INFO	Listening on 127.0.0.1:60403
+1647241382630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52735" "-no-remote" "-profile" "/tmp/rust_mozprofileoUl3Pq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647241383349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoUl3Pq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52735/devtools/browser/397e3320-dfd5-46a4-bbeb-e2ab06fd0edb
+1647241384931	Marionette	INFO	Listening on port 46651
+1647241384960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647242337775	Marionette	INFO	Stopped listening on port 46651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647242341394	geckodriver	INFO	Listening on 127.0.0.1:54843
+1647242341897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43425" "-no-remote" "-profile" "/tmp/rust_mozprofile507Uxn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647242342724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile507Uxn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43425/devtools/browser/341cadae-7c37-41d1-bdcf-58b37afdb43c
+1647242344411	Marionette	INFO	Listening on port 44565
+1647242344530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647242382453	Marionette	INFO	Stopped listening on port 44565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647242442352	geckodriver	INFO	Listening on 127.0.0.1:50339
+1647242442855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44109" "-no-remote" "-profile" "/tmp/rust_mozprofileKhCu3R"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647242443597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKhCu3R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44109/devtools/browser/a5b3de83-a44c-4f9f-ae58-26d7070056a5
+1647242445206	Marionette	INFO	Listening on port 34519
+1647242445279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647242457148	Marionette	INFO	Stopped listening on port 34519
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647243021141	geckodriver	INFO	Listening on 127.0.0.1:36747
+1647243021645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49575" "-no-remote" "-profile" "/tmp/rust_mozprofileLlxINw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647243022453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLlxINw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49575/devtools/browser/1753a622-035b-474b-be92-40ef9165aa84
+1647243024144	Marionette	INFO	Listening on port 46387
+1647243024172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://askomdch.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647243041495	Marionette	INFO	Stopped listening on port 46387

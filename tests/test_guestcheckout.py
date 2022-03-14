@@ -10,7 +10,9 @@ from webdriver_manager.utils import ChromeType
 from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
 
-driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+firefox_options = webdriver.FirefoxOptions()
+firefox_options.headless = True
+driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()), options=firefox_options)
 
 driver.get("https://askomdch.com/")
 driver.maximize_window()
