@@ -1,0 +1,6 @@
+2022-03-25 17:51:38,265 : INFO : test_logging :  Information statement is executed
+2022-03-25 17:51:38,265 : WARNING : test_logging :  Warning statement is executed
+2022-03-25 17:51:38,266 : ERROR : test_logging :  Error statement is executed
+2022-03-25 17:51:38,266 : CRITICAL : test_logging :  Critical statement is executed
+2022-03-25 23:49:24,330 : INFO : tests.BaseClass :  Driver object initialized to Firefox
+2022-03-25 23:58:22,207 : INFO : test_guestcheckout :  Driver object initialized to Firefox
